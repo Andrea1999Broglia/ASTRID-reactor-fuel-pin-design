@@ -34,7 +34,7 @@ in	the	fuel-cladding	gap	is	100%	helium.	Detailed	compositions	of	fuel	and	cladd
 provided	in	Table	2.	
 
 
-| Fuel Isotopic specifications (wt. %)                         |                    Values       |
+| **Fuel Isotopic specifications (wt. %)**                     |                  **Values**     |
 ---------------------------------------------------------------|----------------------------------
 ($^{238}Pu$, $^{239}Pu$, $^{240}Pu$, $^{241}Pu$, $^{242}Pu$)   |  (0.24, 67.87, 26.07, 4.62, 1.2)|
 --------------------------------------------------------------------------------------------------                   
