@@ -87,25 +87,72 @@ Table 2:
 
 
 The	irradiation	scenario	consists	in	a	normal	operation	at	the	reactor	power	of	1500	
-MWth.
+$MW_{th}$.
 
 The	fuel	residence	time	in-reactor	is	of	1440	EFPD	(Equivalent	Full	Power	Days),	
 divided	in	four	cycles	of	360	EFPD	each,	with	a	progressive	decrease	by	10%	of	the	pin	
 linear	power	during	irradiation.	
 
-The	maximum	linear	heat	rate	of	$q’	=	46.3	\ kW	m^{-1}$ (hot	
+The	maximum	linear	heat	rate	of	q’ =	46.3 kW/m (hot	
 pin,	hot	channel)	occurs	at	the	beginning	of	irradiation	(i.e.,	after	the	first	power	rise	at	
 reactor	start-up).	The	axial	peak	factors	defining	the	axial	profile	of	the	pin	linear	power
 and	neutron	flux,	assumed	constant	along	irradiation	and	equal	for	the	average	and	the	
 hot	channel,	are	provided	in	Table	3.
 
-![Table 3](https://github.com/user-attachments/assets/72e1df2b-c00e-490e-96e0-84eec7cfec45)
+Table 3:
+| **Node	number**| **Height	from	bottom	of	fuel column Cold	geometry (mm)** | **Value** |
+:---|:----:|---:
+|1 |0 |0.001|
+|2 |130| 0.005|
+|3 |230| 0.01
+|4 |290| 0.03|
+|5 |300 |0.205|
+|6 |310| 0.38|
+|7| 350 |0.45|
+|8 |400| 0.51|
+|9| 450| 0.55|
+|10| 490| 0.57|
+|11| 540| 0.58|
+|12| 550| 0.315|
+|13| 560| 0.05|
+|14 |590 |0.04|
+|15| 630 |0.04|
+|16| 670| 0.05|
+|17 |700| 0.06|
+|18 |740| 0.08|
+|19 |750 |0.46|
+|20 |760 |0.84|
+|21 |770| 0.89|
+|22 |790| 0.94|
+|23| 830| 0.98|
+|24 |880 |1|
+|25| 930| 0.98|
+|26 |980 |0.92|
+|27 |1020| 0.86|
+|28 |1050| 0.81|
+|29 |1070| 0.77|
+|30 |1100 |0.71|
 
 Some correlations	for	the	properties	of	the	fuel,	cladding	and	coolant	are	provided	along the	
 discussion.	The	equivalent	stress	leading	 to	thermal	creep	 failure	is	plotted	in	Figure	2
 against	the	Larson-Miller	parameter	(LMP),	for	the	considered	cladding	steel.
+
+
+![Figure 2](https://github.com/user-attachments/assets/41be46ed-93a4-4242-a24c-57c38e903b8c)
+
+
+
 The	 fuel	 pin	 design	 limits, to	 be	 respected	 under	 normal	 operation irradiation
 
 conditions,	are	collected	in	Table	5.
-![Table 5](https://github.com/user-attachments/assets/9bf07511-6486-4d04-9884-a47686c13d7e)
+
+Table 5:
+| **Parameter** | **Design	limits** |
+----------------|---------------------
+| Maximum fuel	temperature | <	2400°C |
+| Maximum cladding	temperature | <	620°C (at	cladding	mid-wall) |
+| Maximum plenum	pressure | <	5	MPa | 
+| Instantaneous	cladding	plastic	strain | <	0.5%|
+| Cladding	thermal	creep	strain | <	0.2% |
+| Cladding	volumetric	swelling | <	6% |
 
