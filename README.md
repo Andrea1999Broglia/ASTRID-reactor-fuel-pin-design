@@ -1,6 +1,6 @@
 # Introduction
 
-The	goal of	this project was to perform the preliminary design of a fuel pin	for	a sodium-cooled fast reactor.
+The	goal of	this project was to perform the preliminary design of a fuel pin	for	the  Advanced Sodium Technological Reactor for Industrial Demonstration (ASTRID).
 In particular, it was asked to:
 *   The	thickness	of	the	cladding,
 *   The	size	of	the	fuel-cladding	gap,
@@ -14,7 +14,26 @@ proposed	in	terms	of:
 *   Margin to	melting of	the	fuel.
 
 The	core	design	specifications	of	this	Sodium-cooled	Fast	Reactor	(SFR)	are	given	in	
-Table 1.
+Table 1a and Table 1b:
+
+Table 1:
+| **Reactor Specifications** | **Values** |
+-----------------------------|-------------
+| Thermal power (MW) | 1500 |
+| Number of inner-core fuel assemblies | 180 |
+| Number of outer-core fuel assemblies | 108 |
+| Fuel pins per assembly | 217 |
+| Pin pitch (mm) | 10.7 |
+| Coolant inlet temperature (°C) | 400 |
+| Coolant inlet pressure (MPa) | 0.3 |
+| Coolant	mass	flow	rate	per	assembly (kg/s) | 22 |
+| Target	fuel	burnup	($GW_d/t_{HM}$) | 135 (hot channel) |
+| Total	neutron	flux	($10^{15} n	cm^{-2}/s) | 3.38 (hot	channel) |
+| Fast	neutron	flux (>	100	keV) | 70%	of	total	neutron	flux |
+
+
+
+
 
 The	reactor	core	is	composed	of wrapped	hexagonal	Fuel	Assemblies	(FAs),	
 each	 one	 containing	 217	 fuel	 pins	 arranged	 in	 a	 triangular	 lattice.	 The	 FAs	 are	
@@ -33,16 +52,17 @@ is	an	austenitic stainless steel 15-15Ti	(15%	Cr,	15%	Ni,	0.45%	Ti). The	initial
 in	the	fuel-cladding	gap	is	100%	helium.	Detailed	compositions	of	fuel	and	cladding	are	
 provided	in	Table	2.	
 
-
+Table 2:
 | **Fuel Isotopic specifications (%)**                         |                  **Values**     |
----------------------------------------------------------------|----------------------------------
+|             :----:                                           |       :----:                    |
 ($^{238}Pu$, $^{239}Pu$, $^{240}Pu$, $^{241}Pu$, $^{242}Pu$)   |  (0.24, 67.87, 26.07, 4.62, 1.2)|
 ($^{234}U$, $^{2345}U$, $^{238}U$)                             | Natural Uranium                 |
----------------------------------------------------------------|---------------------------------|                  
+| **Cladding composition (%)**                                 |       **Values**                |
+| (Cr, Ni, Mo, Mn, Si, Ti, C)                                  | (15.0, 15.0, 1.5, 1.5, 0.9, 0.4. 0.09 | 
+| B (ppm)                                                      | (60)                            |
+|  **Filling gas (%)**                                         |          **Values**             |
+|          He                                                  |         100                     |
 
-| Cladding composition (%)                                     | 
-
-![Table 2](https://github.com/user-attachments/assets/a6c32bf1-e6d6-4b8c-8b7f-7a427605cc68)
 
 
 The	irradiation	scenario	consists	in	a	normal	operation	at	the	reactor	power	of	1500	
