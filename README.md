@@ -16,7 +16,7 @@ proposed	in	terms	of:
 The	core	design	specifications	of	this	Sodium-cooled	Fast	Reactor	(SFR)	are	given	in	
 Table 1a and Table 1b:
 
-Table 1:
+Table 1a:
 | **Reactor Specifications** | **Values** |
 -----------------------------|-------------
 | Thermal power (MW) | 1500 |
@@ -31,8 +31,29 @@ Table 1:
 | Total	neutron	flux	($10^{15} n	cm^{-2}/s) | 3.38 (hot	channel) |
 | Fast	neutron	flux (>	100	keV) | 70%	of	total	neutron	flux |
 
-
-
+Table 1b:
+| **Fuel pin	specifications** | **Values** |
+-------------------------------|-------------
+| Total	active	length	(mm) | 1100|
+| Lower	fertile	zone	height (mm) | 300|
+| Lower	fissile	zone	height	(mm) |250|
+| Inner	fertile	zone	height	(mm) |200|
+| Upper	fissile	zone	height	(mm) |350|
+| Fuel	inner	diameter	(mm) – fissile	pellets |2.45|
+| Fuel	inner	diameter	(mm)	– fertile	pellets |0|
+| Fuel	outer	diameter	(mm)| 8.46|
+| Cladding	outer	diameter	(mm) |9.70|
+| Wire	spacer	diameter	(mm) |1|
+| Filling	gas	pressure	(MPa) |0.1|
+| Filling	gas	temperature	(°C) |20|
+| Fuel	density	(%	of	Theoretical	Density	(TD))| 95|
+| Fuel	grain	diameter	(μm) |10|
+| **Fissile pellets:** | |
+| $\frac{Pu}{Pu+U}$	(at.%) |23	|
+| Oxygen-to-metal	ratio,	O/M	(/) |1.97|
+| **Fertile pellets:** | |
+| $\frac{Pu}{Pu+U}$	(at.%) |0	|
+| Oxygen-to-metal	ratio,	O/M	(/) |2.00|
 
 
 The	reactor	core	is	composed	of wrapped	hexagonal	Fuel	Assemblies	(FAs),	
