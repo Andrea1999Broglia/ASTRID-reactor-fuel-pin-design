@@ -142,9 +142,7 @@ against	the	Larson-Miller	parameter	(LMP),	for	the	considered	cladding	steel.
 
 
 
-The	 fuel	 pin	 design	 limits, to	 be	 respected	 under	 normal	 operation irradiation
-
-conditions,	are	collected	in	Table	5.
+The	 fuel	 pin	 design	 limits, to	 be	 respected	 under	 normal	 operation irradiation conditions,	are	collected	in	Table	5.
 
 Table 5:
 | **Parameter** | **Design	limits** |
