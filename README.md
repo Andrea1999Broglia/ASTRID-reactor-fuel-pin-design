@@ -141,4 +141,4 @@ Table 5:
 | Cladding	thermal	creep	strain | <	0.2% |
 | Cladding	volumetric	swelling | <	6% |
 
-The file report.pdf contains the results of the analysis.
+The file report.pdf contains the results of the analysis and correlations.pdf contains formulas and correlations implemented.
