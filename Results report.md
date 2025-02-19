@@ -84,4 +84,19 @@ The same calculation was performed taking into account the contact between cladd
 
 ![alt text](image-14.png)
 
-This stress values not only exceed the yield stress, but the ultimate tensile strength too; this hints at the fact that the yielding of the cladding allows for the expansion under a stress that can be approximated to the yielding stress. 
+This stress values not only exceed the yield stress, but the ultimate tensile strength too; this hints at the fact that the yielding of the cladding allows for the expansion under a stress that can be approximated to the yielding stress. The last asessment performed was based on the calculation of the irradiation creep strain,thermal creep strain and Larson-Miller parameter to make sure that the values of temperature and stress undergone by the cladding were compatible with its time under strain. As a consequence, three limit values for T, $\sigma$ and time under strain were individuated such that if they were to be exceeded, the cladding would have undergone failure during operations. These values were compared with the actual temperature, stress and time under strain of the cladding, which were found to not exceed those limits.
+
+The ratio between failure limits and actual values were:
+* Temperature: 
+
+    $\frac{T_{limit}}{T_{actual}} = 1.008 > 1$
+ 
+
+* time under strain: 
+
+    $\frac{t_{limit}}{t_{actual}} = 4.95 > 1$
+
+
+* equivalent stress: 
+
+    $\frac{\sigma_{limit}}{\sigma_{actual}} = 1.022 > 1$
