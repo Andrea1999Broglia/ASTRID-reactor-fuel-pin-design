@@ -1,5 +1,3 @@
-# Introduction
-
 The	goal of	this project was to perform the preliminary design of a fuel pin	for	the  Advanced Sodium Technological Reactor for Industrial Demonstration (ASTRID).
 In particular, it was asked to design:
 *   The	thickness	of	the	cladding,
