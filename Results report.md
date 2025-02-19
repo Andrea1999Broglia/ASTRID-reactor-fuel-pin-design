@@ -1,14 +1,16 @@
 # Results report
 It is useful to remember that the aim of this preliminary analysis was the design of:
 *   the	thickness	of	the	cladding,
-*   the	size	of	the	fuel-cladding	gap,
 *   the	height	of	the	plena,
+*   throttling parameter
 
 while the boundaries to be osserved were the:
 *   temperature of	the	cladding,
 *   yielding of	the	cladding,
 *   creep strain of	the	cladding,
 *   margin to	melting of	the	fuel.
+*   coolant speed <10 m/s to avoid corrosion
+*   total pin length = 2130 mm
 
 **Thickness of the cladding**
 
@@ -44,3 +46,27 @@ This analysis is not much different from the hot geometry, but accounts for the 
 ![alt text](image-5.png)
 
 4) **PCI**:
+This analysis describes the temperature profile from the moment that cladding and fuel enter in contact due to the swelling of the fuel.
+
+![alt text](image-6.png)
+
+In this analysis the restructuring of the fuel is still accounted for.
+
+![alt text](image-7.png)
+
+**Throttling parameter**
+
+To ensure that the pin was properly cooled, the throtting of the assembly was simply represented by a paramter that amplifies the coolant mass flow rate by incresing its speed by 90%. While this choice lowers the temperature of the cladding, it is important to stress that the upper limit for this amplification is the upper boundary on the coolant speed of 10 m/s to avoid excessive corrosion. As shown in the graphs below, the limit was not exceeded, hence allowing to satisfy both the boundaries on the temperature of the cladding and speed of the coolant.
+
+![alt text](image-8.png)
+
+**Upper and lower plena size**
+To establish the length of the lower and upper plena of the pin, the pressure inside the pin must be evaluated at the end of operations must be calculated accounting for the fission gas release for a combination of upper and lower plena length. Then, the boundary of total length of the pin equal to 2130 mm was imposed. The result of this analysis is shown in the heatmap below.
+
+![alt text](image-9.png)
+
+The red dot, which represents the choice of the length of the plena, corresponds to a lower plenum length of 950 mm and 1280 mm upper plenum. Given that the calculation was performed assuming that 90% of the FG are released, which is a conservative choice, the boundary of 5.0 MPa maximum inner pressure is respected.
+
+
+
+
