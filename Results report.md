@@ -8,7 +8,7 @@ while the boundaries to be osserved were the:
 *   temperature of	the	cladding,
 *   yielding of	the	cladding,
 *   creep strain of	the	cladding,
-*   margin to	melting of	the	fuel.
+*   margin to	melting of	the	fuel (maximum temperature <2400°C).
 *   coolant speed <10 m/s to avoid corrosion
 *   total pin length = 2130 mm
 
@@ -67,6 +67,21 @@ To establish the length of the lower and upper plena of the pin, the pressure in
 
 The red dot, which represents the choice of the length of the plena, corresponds to a lower plenum length of 950 mm and 1280 mm upper plenum. Given that the calculation was performed assuming that 90% of the FG are released, which is a conservative choice, the boundary of 5.0 MPa maximum inner pressure is respected.
 
+**Cladding mechanical verification**
+At this point, all the design parameters that had to be chosen have been given a value. Still, the compliance with some design limits is yet to be assessed. In particular the creep strain and yielding of the cladding boundaries are yet to be assessed.
 
+So, the first step was ensuring that the stress due to the thermal gradient along the cladding radius and the difference in pressure between outside and inside the cladding was not per se sufficient in yielding it. The components of the thermal and mechanical stresses were calculate and summed component-wise. Then, th equivalent stress was calculated using the Von Mises criterion. The result is displayed in the graphs below.
 
+<div style="display: flex;">
+  <img src=image-12.png  style="width: 33%;">
+  <img src=image-11.png  style="width: 33%;">
+  <img src=image-13.png  style="width: 33%;">
+</div>
 
+As shown, the maximum equivalent stress that the cladding undergoes is way below the yielding stress that is one order of magnitude higher.
+
+The same calculation was performed taking into account the contact between cladding and fuel pellet (pellet-cladding interaction, PCI) caused by the irradiation swelling of the latter by evaluating the associated contact pressure. 
+
+![alt text](image-14.png)
+
+This stress values not only exceed the yield stress, but the ultimate tensile strength too; this hints at the fact that the yielding of the cladding allows for the expansion under a stress that can be approximated to the yielding stress. 
