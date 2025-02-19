@@ -100,3 +100,12 @@ The ratio between failure limits and actual values were:
 * equivalent stress: 
 
     $\frac{\sigma_{limit}}{\sigma_{actual}} = 1.022 > 1$
+
+# Results 
+Under the following design choices:
+* cladding thickness = 0.55 mm
+* upper plenum length = 1280 mm
+* lower plenum length = 950 mm
+* throttling mass flow rate increase = 90%
+
+all the design limits were respcted.
