@@ -139,4 +139,4 @@ Table 5:
 | Cladding	thermal	creep	strain | <	0.2% |
 | Cladding	volumetric	swelling | <	6% |
 
-The file report.pdf contains the results of the analysis and correlations.pdf contains formulas and correlations implemented.
+The results of this analysis are displayd in Results report.md and the code itself is Reactor model.ipynb.
