@@ -12,8 +12,10 @@ while the boundaries to be osserved were the:
 
 **Thickness of the cladding**
 
-First of all, a thickness of the cladding was proposed and *a posteriori* verified. To do so, the axial temperature profile under different approaches.
-1) **cold geometry**: it's the temperature profile under the hypothesis that the pin is not deformed in any way. It is hence a rough approximation.
+First of all, a thickness of the cladding was proposed (**0.55 mm**) and *a posteriori* verified. To do so, the axial temperature profile under different approaches.
+
+1) **cold geometry**: 
+it's the temperature profile under the hypothesis that the pin is not deformed in any way. It is hence a rough approximation.
 
 ![alt text](image.png)
 
@@ -23,7 +25,8 @@ Moreover, a less approximate radial analysis of the temperature profile (develop
 
 ![alt text](image-1.png)
 
-2) **hot geometry**: this approach accounts for the radial thermal expansion of the cladding and the fuel.
+2) **hot geometry**: 
+this approach accounts for the radial thermal expansion of the cladding and the fuel.
 
 ![alt text](image-2.png)
 
@@ -34,3 +37,10 @@ In this framework the maximum temperatures of cladding and fuel are further lowe
 In this case too, the maximum temperature is further lowered.
 
 3) **Fuel restructuring**:
+This analysis is not much different from the hot geometry, but accounts for the increased inner fuel radius due to the restructuring of the fuel which entails a lowered inner fuel temperature.
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+4) **PCI**:
