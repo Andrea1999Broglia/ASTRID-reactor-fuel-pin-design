@@ -139,4 +139,4 @@ Table 5:
 | Cladding	thermal	creep	strain | <	0.2% |
 | Cladding	volumetric	swelling | <	6% |
 
-The results of this analysis are displayd in Results report.md and the code itself is Reactor model.ipynb.
+The results of this analysis are displayd in [Results report.md](https://github.com/Andrea1999Broglia/ASTRID-reactor-fuel-pin-design/blob/main/Results%20report.md) and the code itself is [Reactor model.ipynb](https://github.com/Andrea1999Broglia/ASTRID-reactor-fuel-pin-design/blob/main/Reactor%20model.ipynb).
