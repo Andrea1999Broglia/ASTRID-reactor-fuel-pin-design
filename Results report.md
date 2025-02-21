@@ -22,7 +22,7 @@ it's the temperature profile under the hypothesis that the pin is not deformed i
 ![alt text](image.png)
 
 As shown, the cladding midwall temperature limit of 620°C is respected since it is not reached in the hottest point of the whole cladding. The same can't be said about the fuel, since the 2400°C threshold is exceeded at the inner surface of the fuel.
-Still, the cold geometry is not a realistic representation but it is only worth displying since it is easy to implement and consists of a first step towards more proper approaches.
+Still, the cold geometry is not a realistic representation, but it is only worth displaying since it is easy to implement and consists of a first step towards more proper approaches.
 Moreover, a less approximate radial analysis of the temperature profile (developed in the axial point with higher inner fuel temperature) shows that, even in cold geometry, the axial analysis overestimates the maximum inner temperature.
 
 ![alt text](image-1.png)
@@ -61,7 +61,7 @@ To ensure that the pin was properly cooled, the throtting of the assembly was si
 ![alt text](image-8.png)
 
 **Upper and lower plena size**
-To establish the length of the lower and upper plena of the pin, the pressure inside the pin must be evaluated at the end of operations must be calculated accounting for the fission gas release for a combination of upper and lower plena length. Then, the boundary of total length of the pin equal to 2130 mm was imposed. The result of this analysis is shown in the heatmap below.
+To establish the length of the lower and upper plena of the pin, the pressure inside the pin must be evaluated at the end of operations accounting for the fission gas release for each combination of upper and lower plena length. Then, the boundary of total length of the pin equal to 2130 mm was imposed. The result of this analysis is shown in the heatmap below.
 
 ![alt text](image-9.png)
 
