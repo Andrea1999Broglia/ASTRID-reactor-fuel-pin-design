@@ -108,4 +108,4 @@ Under the following design choices:
 * lower plenum length = 950 mm
 * throttling mass flow rate increase = 90%
 
-all the design limits were respcted.
+all the design limits were respected.
