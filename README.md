@@ -56,7 +56,7 @@ The	reactor	core	is	composed	of wrapped	hexagonal	Fuel	Assemblies	(FAs), each	 o
 
 The fuel	 pin	 concept	 is	 based	 on	 an	 axially	 heterogeneous	 fuel	 column	 (i.e.,	 active	column	composed	by	 fertile	and	 fissile	axial	zones),	with annular	 fissile	pellets while	full	 fertile	pellets (Figure	1).
 
-![Figure 1](https://github.com/user-attachments/assets/318996c4-4770-44b1-9871-6fde81b9b1d7)
+![images/Figure 1](https://github.com/user-attachments/assets/318996c4-4770-44b1-9871-6fde81b9b1d7)
 
 The	 fuel	is	made	 of	U-Pu	mixed	 oxides	(MOX)	for	what	concerns	the	fissile	pellets	(initial	Pu	content	of	23	at.%	over	heavy	metal atoms),	while	the	fertile	pellets	are	made	of	uranium	dioxide (UO2,	natural	U).	The	cladding material	is	an	austenitic stainless steel 15-15Ti	(15%	Cr,	15%	Ni,	0.45%	Ti). The	initial	filling	gas	in	the	fuel-cladding	gap	is	100%	helium.	Detailed	compositions	of	fuel	and	cladding	are	provided	in	Table	2.	
 
